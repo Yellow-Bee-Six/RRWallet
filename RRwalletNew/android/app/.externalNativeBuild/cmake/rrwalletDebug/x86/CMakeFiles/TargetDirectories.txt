@@ -1,0 +1,3 @@
+/home/y/Desktop/readFromFileRRwallet/android/app/.externalNativeBuild/cmake/rrwalletDebug/x86/CMakeFiles/edit_cache.dir
+/home/y/Desktop/readFromFileRRwallet/android/app/.externalNativeBuild/cmake/rrwalletDebug/x86/CMakeFiles/rebuild_cache.dir
+/home/y/Desktop/readFromFileRRwallet/android/app/.externalNativeBuild/cmake/rrwalletDebug/x86/CMakeFiles/wsc.dir
